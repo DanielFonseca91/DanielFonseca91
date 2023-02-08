@@ -1,3 +1,3 @@
 Daniel Vale
-currently learning python
+currently learning React
 linkedin.com/in/danielvalefonseca/
